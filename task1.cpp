@@ -31,5 +31,3 @@ int main() {
 
     return 0;
 }
-
-Task 1: Number Guessing Game
